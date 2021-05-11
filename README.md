@@ -8,6 +8,7 @@ counting timer.
 
 ### Technology
 - Java SE
+- Gradle
 
 
 ![](assets/1.png)
