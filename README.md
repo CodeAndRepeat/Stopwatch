@@ -9,5 +9,6 @@ counting timer.
 ### Technology
 - Java SE
 
-![](/assets/1.png)
-![](/assets/2.png)
+
+![](assets/1.png)
+![](assets/2.png)
